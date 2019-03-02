@@ -1,4 +1,4 @@
-# neuralNets_BackPro
+# Back Propogation implementation for a neural network
 
 In this project a Neural network model for classification of MNIST dataset has been implemented. We have used sigmoid as the activation function and cross entropy loss for the optimization. We have also carried out hyperparameter tuning to check which hyper parameter value gives best result.
 
